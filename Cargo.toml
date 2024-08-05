@@ -1,7 +1,10 @@
 [package]
 name = "enum-helper-macros"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
+repository = "https://github.com/marioiordanov/enum-helper-macros"
+description = "Helper macros for working with enums"
+readme = "README.md"
 
 [lib]
 proc-macro = true
