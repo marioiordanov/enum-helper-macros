@@ -3,6 +3,7 @@ name = "enum-helper-macros"
 version = "0.0.1"
 edition = "2021"
 repository = "https://github.com/marioiordanov/enum-helper-macros"
+license-file = "LICENSE"
 description = "Helper macros for working with enums"
 readme = "README.md"
 
